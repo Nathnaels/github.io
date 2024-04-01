@@ -588,14 +588,9 @@ float: right;
 
               
                                
-                               iframe{
-                                    width: 500px; /* Set the desired width */
-  height: 300px; /* Set the desired height */
-  border: 1px solid #111; /* Set the border style */
-float: right;
- border: 1px solid #000; /* Set the border style */
-  border-radius: 20px; /* Set the border radius */
-                             
+                            . iframe{
+                                  
+                              border-radius: 20px; 
                                }
 
 
